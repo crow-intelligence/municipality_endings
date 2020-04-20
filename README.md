@@ -4,7 +4,7 @@
 
 ## Post
 + [English version]()
-+ [Hungarian version](https://crowintelligence.org/hu/2020/04/19/a--haza-mindenek-elott/)
++ [Hungarian version](https://crowintelligence.org/hu/2020/04/20/a-haza-minden-elott/)
 
 ## Notes
 + [shapefile](https://data2.openstreetmap.hu/hatarok/index.php?admin=8)
