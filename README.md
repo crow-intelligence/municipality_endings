@@ -3,7 +3,7 @@
 ## Data processing
 
 ## Post
-+ [English version]()
++ [English version](https://crowintelligence.org/2020/04/21/city-name-lego/)
 + [Hungarian version](https://crowintelligence.org/hu/2020/04/20/a-haza-minden-elott/)
 
 ## Notes
